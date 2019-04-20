@@ -1,0 +1,1 @@
+list = ['blue', 'green', 'red']
