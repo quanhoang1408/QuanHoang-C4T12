@@ -41,6 +41,7 @@ while True :
         if player['x']>-1 and player['x']<3 :
             player['x'] = player['x'] + 1
     if player['x'] ==2 and player['y']==2 :
+        
         #key co the thay doi
         print("you have got a key!")
         keyy = keyy +1
@@ -91,6 +92,3 @@ while True :
             else :
                 print("_",end=" ")
         print()
-    if player['x'] ==2 and player['y']==2 :
-        #key co the thay doi
-        print

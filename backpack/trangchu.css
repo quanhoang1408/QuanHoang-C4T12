@@ -1,0 +1,18 @@
+.bg{
+    background-color: rgb(106, 197, 228);
+}
+.ogiua{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 75px;
+    background-color: white;
+}
+.chinh{
+    margin-left: 50px;
+}
+.cach{
+    display: flex;
+    justify-content: space-around;
+}

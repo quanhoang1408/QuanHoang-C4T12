@@ -1,0 +1,43 @@
+.dcip{
+    width: 300px;
+    margin-bottom: 10px;
+}
+#dangnhap{
+    background-color: blue;
+}
+#divtong{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.ragiua{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: #02104d;
+    font-family: 'Courgette', cursive;
+}
+
+body {
+    background-image: url("https://redbullvietnam.com/uploads/articles/65/5_tuyet_chieu_vang_cho_dan_phuot_chang_lo_het_nhien_lieu_4.jpg");
+    background-size: cover; 
+    width: 100%;
+}
+.xuong{
+    margin-top: 50px;
+    margin-right: 70px;
+}
+label{
+    font-family: 'Advent Pro', sans-serif;
+    color: darkblue;
+}
+.picturesize{
+    margin-left: 810px;
+    margin-top: 20px;
+}
+.icon{
+    margin-left: 200px;
+}
+h1{
+    font-family: 'Shojumaru', cursive;
+}

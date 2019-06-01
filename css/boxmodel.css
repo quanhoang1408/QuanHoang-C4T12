@@ -1,0 +1,22 @@
+.w-250{
+    width: 250px;
+}
+.h-200{
+    height: 200px;
+}
+.bg-blue{
+    background-color: blue;
+}
+.border{
+    border: 10px solid red;
+    border-radius: 10px;
+}
+.m-item{
+    margin: 100px
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.p-100px{
+    padding: 100px;
+}

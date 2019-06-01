@@ -1,0 +1,27 @@
+h4{
+    color: red
+}
+.ok{
+    font-family: 'Gugi', cursive;
+    text-transform: uppercase;
+}
+#ngu{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+#khon{
+    font-family: 'Quattrocento', serif;
+    size: 100cm
+}
+#div{
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://scontent.fhan2-2.fna.fbcdn.net/v/t1.15752-9/60313834_360990991430916_5573640898958327808_n.jpg?_nc_cat=111&_nc_oc=AQkOZVTzkEV_PxbJGTRjsXl4e_dSYNlu5x61EmcNAytvSIsCk3_tvqDJ5V_zasvtU0s&_nc_ht=scontent.fhan2-2.fna&oh=d6b30db5dc05167731aa0f17b799f442&oe=5D53BD1C);
+}
+.blue{
+    height: 500px;
+    width:100%;
+    background-color: blue;
+}
